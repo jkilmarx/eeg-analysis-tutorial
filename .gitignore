@@ -1,0 +1,35 @@
+# Raw and derived EEG data
+*.xdf
+*.fif
+*.fif.gz
+*.bdf
+*.edf
+
+# Generated outputs (keep the folder documentation)
+outputs/*
+!outputs/README.md
+
+# Local teaching materials not included in the current public release
+/solutions/
+/notebooks/04_feature_extraction_and_ml.ipynb
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environments and editor settings
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
