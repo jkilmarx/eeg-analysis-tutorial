@@ -86,7 +86,3 @@ Before sharing any human-participant data, follow the consent language, institut
 - Record preprocessing decisions, rejected trials, bad channels, software versions, and any deviations from the expected protocol.
 - Keep raw data unchanged; write derived files to `outputs/`.
 - Inspect PSDs, topographies, marker counts, and retained trial counts before interpreting a condition difference.
-
-## License
-
-Add a license that matches your lab or course requirements before publishing.
