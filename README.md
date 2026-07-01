@@ -32,13 +32,6 @@ By completing the notebooks, you will learn to:
 
 Treat these values as an experimental expectation, not a guarantee. Always inspect the streams and marker counts before analysis.
 
-## Fork, clone, and save your work
-
-1. On GitHub, click **Fork** to create your own copy of this repository.
-2. In VS Code, open the Command Palette and choose **Git: Clone**, then select or paste the URL of **your fork** and open the cloned folder.
-3. As you work, open the **Source Control** tab, review your changed files, stage the changes, enter a short commit message, and click **Commit**.
-4. Click **Sync Changes** (or **Push**) regularly to save your commits to your GitHub fork.
-
 ## Repository structure
 
 ```text
@@ -53,6 +46,13 @@ eeg-analysis-tutorial/
 ├── src/                  # Reusable, readable helper functions
 └── images/               # Optional documentation images
 ```
+
+## Fork, clone, and save your work
+
+1. On GitHub, click **Fork** to create your own copy of this repository.
+2. In VS Code, open the Command Palette and choose **Git: Clone**, then select or paste the URL of **your fork** and open the cloned folder.
+3. As you work, open the **Source Control** tab, review your changed files, stage the changes, enter a short commit message, and click **Commit**.
+4. Click **Sync Changes** (or **Push**) regularly to save your commits to your GitHub fork.
 
 ## Setup
 
